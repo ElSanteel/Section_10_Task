@@ -1,0 +1,15 @@
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\bin\Debug\net6.0\Section 10.exe
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\bin\Debug\net6.0\Section 10.deps.json
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\bin\Debug\net6.0\Section 10.runtimeconfig.json
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\bin\Debug\net6.0\Section 10.dll
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\bin\Debug\net6.0\Section 10.pdb
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\obj\Debug\net6.0\Section 10.csproj.AssemblyReference.cache
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\obj\Debug\net6.0\Section 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\obj\Debug\net6.0\Section 10.AssemblyInfoInputs.cache
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\obj\Debug\net6.0\Section 10.AssemblyInfo.cs
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\obj\Debug\net6.0\Section 10.csproj.CoreCompileInputs.cache
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\obj\Debug\net6.0\Section 10.dll
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\obj\Debug\net6.0\refint\Section 10.dll
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\obj\Debug\net6.0\Section 10.pdb
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\obj\Debug\net6.0\Section 10.genruntimeconfig.cache
+C:\Users\alsan\Downloads\Documents\Faculty\2023\Open Source Software\Sections\Section 10\obj\Debug\net6.0\ref\Section 10.dll
